@@ -2,9 +2,9 @@
 
 ## Week 1 Assignment: Flixster
 
-Submitted by: **NAME**
+Submitted by: **Yaw Kessey-Ankomah**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **22** hours spent in total
 
 Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
@@ -19,18 +19,18 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
   - Title - the element should have a class of `movie-title`
   - Image - the `img` element should have a class of `movie-poster`
   - Votes - the element should have a class of `movie-votes`
-- [ ] User can load more current movies by clicking a button at the bottom of the list
+- [X] User can load more current movies by clicking a button at the bottom of the list
   - The button should have an id of `load-more-movies-btn`.
   - When clicked, the page should not refresh.
   - New movies should simply be added to the bottom
-- [ ] Allow users to search for movies and display them in a grid view
+- [X] Allow users to search for movies and display them in a grid view
   - There should be a search input element with an id of `search-input`
   - Users should be able to type into the input
   - When a user hits 'Enter', it should send a search request to the movies API
   - The results from the search should be displayed on the page
   - There should be a close icon with an id of `close-search-btn` that exits the search, clears results, and shows the current movies displayed previously
-- [ ] Website accounts for basic HTML/CSS accessibility features
-- [ ] Website should be responsive
+- [X] Website accounts for basic HTML/CSS accessibility features
+- [X] Website should be responsive
 
 #### STRETCH FEATURES
 
@@ -44,21 +44,21 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-`ADD_EMBEDDED_CODE_HERE`
+`http://g.recordit.co/95WEzEJ5O8.gif`
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+The topics discussed in labs were all incorporated in this week's project. The labs were a great preperation tool that led up to this project. 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+I would make the website logo clickable and from any page it would send you to the now playing movies. 
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+While I was working on my project, I was trying to display my images but for some reason it wasn't able to display on my web page. All my code seemed correct but there was an extra backslash in my url causing my images to not be displayed. 
 
 ### Open-source libraries used
 

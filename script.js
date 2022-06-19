@@ -63,7 +63,7 @@ async function nowPlayingMovies ()
 
     const responseData = await response.json();
     numOfMovies = responseData.results.length;
-
+    console.log(responseData)
     showMeMoreBtn.classList.remove('hidden')
     generateMovieListHTML(responseData)
 }
@@ -72,6 +72,7 @@ nowPlayingMovies()
 // User's search begins after submitted 
 formEl.addEventListener("submit", async(event) => 
 {
+    page = 1
     searchedPage = true
     //Prevents the page from reloading
     event.preventDefault()
