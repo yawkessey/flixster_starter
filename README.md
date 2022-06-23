@@ -34,7 +34,7 @@ Deployed Application (optional): [Flixster Deployed Site](https://yawkessey.gith
 
 #### STRETCH FEATURES
 
-- [ ] Deploy website using GitHub Pages. 
+- [X] Deploy website using GitHub Pages. 
 - [ ] Allow user to view more details about a movie within a popup.
 - [ ] Improve the user experience through CSS & animation.
 - [ ] Allow movie video trailers to be played using [embedded YouTube](https://support.google.com/youtube/answer/171780?hl=en)
