@@ -6,7 +6,7 @@ Submitted by: **Yaw Kessey-Ankomah**
 
 Estimated time spent: **22** hours spent in total
 
-Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Flixster Deployed Site](https://yawkessey.github.io/flixster_starter/)
 
 ### Application Features
 
@@ -42,7 +42,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-(http://g.recordit.co/95WEzEJ5O8.gif)
+(http://g.recordit.co/L584qLhEyK.gif)
 
 ### Reflection
 
